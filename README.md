@@ -106,27 +106,46 @@ Created reusable business measures including:
 
 ## Home Page
 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6bc2259-c2e0-42cd-b22d-c102382f5962" />
+
+---
 
 ## Overview Page
 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8a51487-cab5-48b7-9191-20ab30e84288" />
+
+---
 
 ## Supplier Page
 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a7c641d-2c3f-4dc3-bc0c-87ce0330346a" />
+
+---
 
 ## Inventory Page
 
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5fe23ee1-539c-4dae-81fa-fb6a48f10577" />
+
+---
 
 ## Shipment Page
 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aaff5dc2-225c-41da-af9a-a73a9fbcd581" />
+
+---
 
 ## Customer Page
 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/999c2a1f-a010-41e6-8a81-a3ba492cf8a2" />
+
+---
 
 
 ---
@@ -210,6 +229,6 @@ This project demonstrates an end-to-end Business Intelligence solution for suppl
 
 **Abhishek Sakhare**
 
-Civil Engineering, National Institute of Technology Agartala
+Final Year, National Institute of Technology Agartala
 
 Aspiring Data Analyst | Power BI | SQL | Python | Data Visualization
